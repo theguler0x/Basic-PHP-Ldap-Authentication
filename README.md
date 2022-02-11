@@ -1,2 +1,2 @@
 # PHP-Ldap-Authentication
-PHP Ldap Authentication - PHP ldap Kimlik Doğrulaması
+PHP Ldap Authentication application - PHP ldap Kimlik Doğrulaması uygulaması
